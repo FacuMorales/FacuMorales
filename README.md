@@ -1,16 +1,13 @@
-## Hi there 👋
+Hola!👋, soy Facundo Morales, tengo 21 años. Soy Full Stack Web Developer con una sólida formación en la plataforma SoyHenry y dos años de estudios en la carrera de Analista Programador Universitario en la Universidad Nacional de Jujuy. Cuento con experiencia en el desarrollo de aplicaciones tanto individual como colectivamente, he demostrado habilidades en comunicación eficaz, resolución de problemas y adaptabilidad.
 
-<!--
-**FacuMorales/FacuMorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Tecnologías clave: JavaScript, React, Node.js, Express, Sequelize, PostgreSQL, Redux, y más.
 
-Here are some ideas to get you started:
+🚀 Proyectos destacados:
+NeoShop: Desarrollo de un marketplace completo. Responsable del backend y la integración de funcionalidades clave.
+Drivers App: Aplicación de gestión de conductores. Proyecto individual donde implementé tanto el frontend como el backend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Soy apasionado por el aprendizaje continuo y la resolución de problemas complejos, siempre buscando mejorar mis habilidades y adoptar nuevas tecnologías. Considero ser autodidacta y colaborativo, lo que me permite adaptarme rápidamente a nuevos desafíos y trabajar eficazmente en equipo.
+
+🔍 Abierto a nuevas oportunidades y colaboraciones. Si deseas discutir sobre cómo puedo contribuir a tu equipo o proyecto, no dudes en contactarme!
+📧facu44515119@gmail.com
+🔗https://www.linkedin.com/in/facundo-samuel-morales-villagra-801656298/
