@@ -1,4 +1,4 @@
-Hola!👋, soy Facundo Morales, tengo 21 años. Soy Full Stack Web Developer con una sólida formación en la plataforma SoyHenry y dos años de estudios en la carrera de Analista Programador Universitario en la Universidad Nacional de Jujuy. Cuento con experiencia en el desarrollo de aplicaciones tanto individual como colectivamente, he demostrado habilidades en comunicación eficaz, resolución de problemas y adaptabilidad.
+Hola!👋, soy Facundo Morales, tengo 22 años. Soy Full Stack Web Developer con una sólida formación en la plataforma SoyHenry y dos años de estudios en la carrera de Analista Programador Universitario en la Universidad Nacional de Jujuy. Cuento con experiencia en el desarrollo de aplicaciones tanto individual como colectivamente, he demostrado habilidades en comunicación eficaz, resolución de problemas y adaptabilidad.
 
 💻 Tecnologías clave: JavaScript, React, Node.js, Express, Sequelize, PostgreSQL, Redux, y más.
 
